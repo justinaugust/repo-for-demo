@@ -1,2 +1,3 @@
-# repo-to-copy-to-github
-Demo Repo for github demo
+# This is a basically empty repo
+## That we can use in a Github demo
+
